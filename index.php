@@ -1,5 +1,5 @@
 <?php
 
-	echo "Deploying using CICD Pipeline"
+	echo "Hurray!!! Deploying using CICD Pipeline"
 
 ?>
