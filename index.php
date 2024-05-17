@@ -1,5 +1,5 @@
 <?php
 
-	echo "It is a new PHP application"
+	echo "Deploying using CICD Pipeline"
 
 ?>
